@@ -1,7 +1,0 @@
-README.md
-SETUP.md
-assets/hero.svg
-assets/holographic-avatar.png
-assets/contribution-art.svg
-assets/terminal.svg
-assets/footer.svg
