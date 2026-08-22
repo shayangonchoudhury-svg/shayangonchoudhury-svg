@@ -4,7 +4,7 @@
 
 ### `Web Developer` · `Data Science Enthusiast` · `Problem Solver`
 
-<img src="./assets/holographic-avatar.png" alt="Shayan Gon Choudhury — holographic avatar" width="900"/>
+<img src="holographic-avatar.png" alt="Shayan Gon Choudhury — holographic avatar" width="900"/>
 
 <br/>
 
