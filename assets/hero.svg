@@ -1,0 +1,22 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030711"/><stop offset="1" stop-color="#09172b"/></linearGradient>
+ <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#55e7ff"/><stop offset="1" stop-color="#8d7cff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)" stroke="#2bd9ff" stroke-opacity=".55"/>
+<g opacity=".12" stroke="#5ee7ff">
+  <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+  <path d="M60 0V360M120 0V360M180 0V360M240 0V360M300 0V360M360 0V360M420 0V360M480 0V360M540 0V360M600 0V360M660 0V360M720 0V360M780 0V360M840 0V360M900 0V360M960 0V360M1020 0V360M1080 0V360M1140 0V360"/>
+</g>
+<text x="58" y="68" fill="#67e8ff" font-family="monospace" font-size="17">SYSTEM://PROFILE_BOOT</text>
+<text x="58" y="145" fill="white" font-family="Arial,sans-serif" font-size="58" font-weight="700">SHAYAN GON CHOUDHURY</text>
+<text x="60" y="194" fill="url(#cyan)" font-family="monospace" font-size="25">WEB DEVELOPER  •  DATA  •  AI  •  UI/UX</text>
+<text x="60" y="242" fill="#b7c9dd" font-family="Arial,sans-serif" font-size="20">B.Tech CSE @ KIIT  |  Building practical digital experiences</text>
+<g filter="url(#glow)">
+ <rect x="60" y="278" width="240" height="38" rx="19" fill="#071725" stroke="#55e7ff"/>
+ <circle cx="82" cy="297" r="6" fill="#55ffbb"/>
+ <text x="99" y="303" fill="#dffcff" font-family="monospace" font-size="15">STATUS: BUILDING</text>
+</g>
+<text x="1090" y="312" text-anchor="end" fill="#66809c" font-family="monospace" font-size="14">01 / 06</text>
+</svg>
