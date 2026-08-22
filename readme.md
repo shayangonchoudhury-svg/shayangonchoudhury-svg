@@ -1,247 +1,246 @@
-<div align="center">
+<!-- ===================================================== -->
+<!--               PREMIUM GITHUB PROFILE                  -->
+<!-- ===================================================== -->
 
-```
-┌─────────────────────────────────────────────────┐
-│  SHAYAN GON CHOUDHURY                            │
-│  web developer · ui/ux · data & ai explorer      │
-└─────────────────────────────────────────────────┘
-```
+<!-- Replace banner.png with your custom banner later -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=5EE7FF&center=true&vCenter=true&width=650&lines=Building+interfaces+first...;...then+looking+for+ways+to+make+them+smarter.;React+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+Python;Currently%3A+B.Tech+CSE+%40+KIIT" alt="typing tagline"/>
+<p align="center">
+<img src="banner.png" width="100%" alt="GitHub Banner"/>
+</p>
 
-<br/>
+<h1 align="center">
+Hi 👋 I'm Shayan Gon Choudhury
+</h1>
 
-<a href="https://github.com/shayangonchoudhury-svg"><img src="https://img.shields.io/badge/GITHUB-shayangonchoudhury--svg-0b1220?style=for-the-badge&logo=github&logoColor=5EE7FF&labelColor=05070d"/></a>
-<a href="mailto:shayangonchoudhuryskms@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-0b1220?style=for-the-badge&logo=gmail&logoColor=5EE7FF&labelColor=05070d"/></a>
-<!-- swap in your real LinkedIn URL -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=5EE7FF&labelColor=05070d"/></a>
+<h3 align="center">
+Frontend Developer • UI/UX Enthusiast • Computer Science Student
+</h3>
 
-</div>
+<p align="center">
+Building modern, responsive and user-focused web applications.
+</p>
 
-<br/>
+<p align="center">
 
-## `01` — About
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;Building+Modern+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Technologies"/>
 
-I build web products end to end — interface, logic, and increasingly the AI layer on top. Most of what I ship starts as a frontend problem (a dashboard, a booking flow, a tracker) and grows into something that talks to an API, holds real data, or calls a model.
+</p>
 
-Right now that means: React + TypeScript on the frontend, Express on the backend when a project needs one, and the Google Gemini API when a project needs to reason about something rather than just display it. In parallel, I'm building out the data/ML side through coursework and an internship — early, but deliberate.
+---
 
-<br/>
+# 💫 About Me
 
-## `02` — What I Build
+```javascript
+const shayan = {
 
-<table>
-<tr>
-<td width="25%" valign="top">
+    education: "B.Tech Computer Science Engineering",
 
-**Web Experiences**
+    role: "Frontend Developer",
 
-Full apps with real state — marketplaces, dashboards, bookings. Not templates.
+    location: "India",
 
-</td>
-<td width="25%" valign="top">
+    interests: [
 
-**Interface & UX**
+        "Frontend Development",
 
-Interaction detail: drag-and-drop, persistence, theming, responsive layout.
+        "UI/UX Design",
 
-</td>
-<td width="25%" valign="top">
+        "Artificial Intelligence",
 
-**Data & Intelligence**
+        "Modern Web Technologies"
 
-Image classification and data workflows from coursework and internship work.
+    ],
 
-</td>
-<td width="25%" valign="top">
+    currentlyLearning: [
 
-**AI-assisted Tools**
+        "React",
 
-Products that call an LLM to do real work — flagging, guidance, matching — not just chat wrappers.
+        "Next.js",
 
-</td>
-</tr>
-</table>
+        "TypeScript",
 
-<br/>
+        "Node.js"
 
-## `03` — Featured Builds
+    ],
 
-<table>
-<tr>
-<td width="50%" valign="top">
+    goal: "Build software that creates meaningful user experiences.",
 
-### KIITKart
-AI-powered campus marketplace concept for KIIT students — listings, discovery, and Gemini-assisted matching.
+    funFact: "I enjoy turning creative ideas into interactive web experiences."
 
-`React` `TypeScript` `Express` `Tailwind CSS` `Gemini API`
-
-[Repository →](https://github.com/shayangonchoudhury-svg/KIITKart)
-
-</td>
-<td width="50%" valign="top">
-
-### ScamShield AI Pro
-An AI-assisted concept for surfacing scam-like patterns in everyday messages.
-
-`React` `TypeScript` `Express` `Gemini API`
-
-[Repository →](https://github.com/shayangonchoudhury-svg/ScamShield-AI-Pro)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### MedGuard AI
-A concept-stage health-safety assistant exploring AI-guided user guidance.
-
-`React` `TypeScript` `Express` `Gemini API`
-
-[Repository →](https://github.com/shayangonchoudhury-svg/MedGuard-AI)
-
-</td>
-<td width="50%" valign="top">
-
-### Pocket Weather Dashboard
-Real-time weather app on the OpenWeather API — hourly and 5-day forecasts, dynamic backgrounds, geolocation, theming.
-
-`JavaScript` `HTML` `CSS` `OpenWeather API`
-
-[Repository →](https://github.com/shayangonchoudhury-svg/Pocket-Weather-Dashboard)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Rajmahal Culinaire
-"A destination to experience and relish the flavors of royalty" — a hospitality/restaurant showcase site.
-
-`React` `TypeScript` `Tailwind CSS`
-
-[Repository →](https://github.com/shayangonchoudhury-svg/Rajmahal-Culinaire-)
-
-</td>
-<td width="50%" valign="top">
-
-### Flow — To-Do
-Notebook-inspired task manager: drag-and-drop reordering, priorities, due dates, filtering, local persistence.
-
-`HTML` `CSS` `JavaScript`
-
-[Repository →](https://github.com/shayangonchoudhury-svg/Flow-To-Do)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Expense Tracker
-Dashboard for tracking daily spending and visualizing financial goals — my most-starred build.
-
-`HTML` `CSS` `JavaScript`
-
-[Repository →](https://github.com/shayangonchoudhury-svg/expensetracker)
-
-</td>
-<td width="50%" valign="top">
-
-### Aura Academic
-Responsive academic/institutional site built on the same React + Tailwind stack as the marketplace projects.
-
-`React` `TypeScript` `Tailwind CSS`
-
-[Repository →](https://github.com/shayangonchoudhury-svg/Aura-Academic)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `04` — Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-**Data / AI**
-<br/>
-<img src="https://img.shields.io/badge/Google_Gemini_API-0b1220?style=flat-square&logo=googlegemini&logoColor=5EE7FF&labelColor=05070d"/>
-<img src="https://skillicons.dev/icons?i=py"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
-
-<br/>
-
-## `05` — GitHub Signal
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shayangonchoudhury-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5EE7FF&icon_color=9b7cff&text_color=c9d7e6"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shayangonchoudhury-svg&theme=tokyonight&hide_border=true&background=00000000&ring=5EE7FF&fire=ff65c7&currStreakLabel=5EE7FF"/>
-
-</div>
-
-<br/>
-
-## `06` — Currently Exploring
-
-```
-Exploring  →  AI-assisted product features (Gemini API)
-Building   →  React / TypeScript web apps
-Learning   →  Data workflows & image classification
-Sharpening →  System design fundamentals
+}
 ```
 
-<br/>
+---
 
-## `07` — Build Philosophy
+# 🚀 Current Focus
 
-<div align="center">
+🌱 Learning **React, Next.js & TypeScript**
 
-**Think → Build → Test → Improve → Ship**
+🎨 Improving **UI/UX Design Skills**
 
-Every project above started as a small, working version before it became a real one.
+💻 Building **Real World Web Applications**
 
-</div>
+🤝 Looking for **Software Development Internship Opportunities**
 
-<br/>
+📚 Exploring **AI Powered Applications**
 
-## `08` — Development Journey
+---
 
-| | |
-|---|---|
-| 🎓 **B.Tech, Computer Science Engineering** | KIIT University |
-| 📊 **Data Science Intern** | ISI Kolkata |
-| 🌐 **Web Development Intern** | Pinnacle Labs |
-| 🛰️ **Former Intern** | BSNL |
+# 🛠 Tech Stack
 
-<br/>
+### Languages
 
-## `09` — Connect
+<p align="center">
 
-> Have an interesting idea? Let's build something worth shipping.
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java"/>
 
-<div align="center">
+</p>
 
-<a href="https://github.com/shayangonchoudhury-svg"><img src="https://img.shields.io/badge/GitHub-Follow-0b1220?style=for-the-badge&logo=github&logoColor=5EE7FF&labelColor=05070d"/></a>
-<a href="mailto:shayangonchoudhuryskms@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-0b1220?style=for-the-badge&logo=gmail&logoColor=5EE7FF&labelColor=05070d"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=5EE7FF&labelColor=05070d"/></a>
+### Frameworks
 
-<br/><br/>
+<p align="center">
 
-`curiosity → code → creation`
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs"/>
 
-</div>
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 💰 Expense Tracker | Smart expense tracking web application with modern UI |
+| 🎓 Aura Academic | Academic website with responsive design |
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
+| 📅 Neo-Class Scheduler | Futuristic class timetable and attendance manager |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shayangonchoudhury-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayangonchoudhury-svg&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayangonchoudhury-svg&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shayangonchoudhury-svg&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shayangonchoudhury-svg&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Advanced JavaScript
+- 🔄 Build 15+ Production Ready Projects
+- 🔄 Learn React & Next.js
+- 🔄 Learn TypeScript
+- 🔄 Learn Backend Development
+- 🔄 Contribute to Open Source
+- 🔄 Secure a Software Development Internship
+
+---
+
+# 📚 Currently Learning
+
+- React.js
+
+- Next.js
+
+- TypeScript
+
+- Node.js
+
+- UI/UX Design
+
+- REST APIs
+
+- Performance Optimization
+
+---
+
+# 📈 Development Philosophy
+
+> Clean code is not just about making software work—it's about creating experiences that are maintainable, intuitive, and enjoyable for both users and developers.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/shayangonchoudhury-svg">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shayangonchoudhuryskms@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shayangonchoudhury-svg&style=for-the-badge&color=0E75B6"/>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Every great product starts with curiosity, grows through consistency, and succeeds by solving real problems."**
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider following my journey and checking out my projects!
+
+</p>
