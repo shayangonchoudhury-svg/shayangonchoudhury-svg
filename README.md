@@ -4,9 +4,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=220&section=header&text=Shayan%20Gon%20Choudhury&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast%20%E2%80%A2%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<!-- self-animating holographic banner — SMIL/CSS animation baked into the SVG itself, plays automatically on GitHub -->
+<img src="https://raw.githubusercontent.com/shayangonchoudhury-svg/shayangonchoudhury-svg/main/holo-banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Modern+Web+Applications+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+TypeScript+Enthusiast;Open+to+Internship+Opportunities+%F0%9F%A4%9D"/>
+
+<br/>
+
+<a href="https://shayangonchoudhury-svg.github.io/shayangonchoudhury-svg/holo-card.html">
+<img src="https://img.shields.io/badge/✨_INTERACTIVE_HOLO_CARD-000000?style=for-the-badge&logoColor=white&labelColor=0b0f24&color=38BDF8"/>
+</a>
 
 <br/>
 
