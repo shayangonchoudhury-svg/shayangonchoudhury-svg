@@ -1,0 +1,97 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- deep space base -->
+    <linearGradient id="base" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060f"/>
+      <stop offset="100%" stop-color="#0a0e23"/>
+    </linearGradient>
+
+    <!-- holographic iridescent sweep -->
+    <linearGradient id="holo" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="40%" stop-color="#A78BFA" stop-opacity="0.65"/>
+      <stop offset="60%" stop-color="#F472B6" stop-opacity="0.65"/>
+      <stop offset="80%" stop-color="#34D399" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1200 0; 1200 0; -1200 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#A78BFA;#F472B6;#34D399;#38BDF8" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#F472B6">
+        <animate attributeName="stop-color" values="#F472B6;#34D399;#38BDF8;#A78BFA;#F472B6" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="300" fill="url(#base)"/>
+
+  <!-- grid lines, faint circuit feel -->
+  <g stroke="#38BDF8" stroke-opacity="0.08">
+    <line x1="0" y1="60" x2="1200" y2="60"/>
+    <line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+  </g>
+
+  <!-- ambient glow -->
+  <ellipse cx="600" cy="150" rx="500" ry="140" fill="url(#glow)"/>
+
+  <!-- holographic diagonal sweep -->
+  <g opacity="0.9">
+    <rect x="-1200" y="0" width="1200" height="300" fill="url(#holo)" transform="skewX(-15)"/>
+  </g>
+
+  <!-- floating particles -->
+  <g fill="#38BDF8">
+    <circle cx="120" cy="80" r="2.5" opacity="0.8">
+      <animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="220" r="3" fill="#F472B6" opacity="0.7">
+      <animate attributeName="cy" values="220;200;220" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="70" r="2" fill="#A78BFA" opacity="0.6">
+      <animate attributeName="cy" values="70;95;70" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="230" r="2.2" fill="#34D399" opacity="0.6">
+      <animate attributeName="cy" values="230;210;230" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="40" r="1.8" fill="#38BDF8" opacity="0.5">
+      <animate attributeName="cy" values="40;55;40" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- name -->
+  <text x="600" y="150" text-anchor="middle" font-family="Poppins, 'Segoe UI', sans-serif"
+    font-size="54" font-weight="700" fill="url(#textGrad)" filter="url(#soft)">
+    SHAYAN GON CHOUDHURY
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="188" text-anchor="middle" font-family="Poppins, 'Segoe UI', sans-serif"
+    font-size="18" letter-spacing="2" fill="#93C5FD" opacity="0.85">
+    FRONTEND DEVELOPER · UI/UX ENTHUSIAST · CS STUDENT
+  </text>
+
+  <!-- scan line -->
+  <rect x="0" y="0" width="1200" height="2" fill="#38BDF8" opacity="0.5">
+    <animate attributeName="y" values="0;298;0" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
