@@ -1,9 +1,0 @@
-<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
-<rect width="900" height="260" rx="20" fill="#060b16" stroke="#334e68"/>
-<circle cx="28" cy="28" r="6" fill="#ff6b9d"/><circle cx="48" cy="28" r="6" fill="#ffd166"/><circle cx="68" cy="28" r="6" fill="#5ee7ff"/>
-<text x="30" y="78" fill="#5ee7ff" font-family="monospace" font-size="18">$ whoami</text>
-<text x="30" y="112" fill="white" font-family="monospace" font-size="18">shayan@build-mode:~$ web + data + ai</text>
-<text x="30" y="154" fill="#7c8da6" font-family="monospace" font-size="18">$ status</text>
-<text x="30" y="188" fill="#8affc1" font-family="monospace" font-size="18">ONLINE  |  CURIOUSITY.EXE RUNNING</text>
-<text x="30" y="226" fill="#7c8da6" font-family="monospace" font-size="18">$ echo "let's build something that matters"</text>
-</svg>

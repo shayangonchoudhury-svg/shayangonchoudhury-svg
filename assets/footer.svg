@@ -1,6 +1,0 @@
-<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="f" x1="0" x2="1"><stop stop-color="#5ee7ff"/><stop offset="1" stop-color="#a77bff"/></linearGradient></defs>
-<rect width="1200" height="180" rx="24" fill="#030711" stroke="#2bd9ff" stroke-opacity=".4"/>
-<text x="600" y="78" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="34" font-weight="700">LET'S BUILD SOMETHING THAT MATTERS.</text>
-<text x="600" y="120" text-anchor="middle" fill="url(#f)" font-family="monospace" font-size="17">Dream → Code → Build → Impact</text>
-</svg>
